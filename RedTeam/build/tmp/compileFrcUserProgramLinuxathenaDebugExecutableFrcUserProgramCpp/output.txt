@@ -1,0 +1,4 @@
+See file:///C:/Users/royalrobotics/Documents/code/RedTeam/build/tmp/compileFrcUserProgramLinuxathenaDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramLinuxathenaDebugExecutableFrcUserProgramCpp.
+compiling DriveTrainClass.cpp successful.
+
+Finished compileFrcUserProgramLinuxathenaDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/royalrobotics/Documents/code/RedTeam/build/tmp/compileFrcUserProgramLinuxathenaDebugExecutableFrcUserProgramCpp/output.txt.

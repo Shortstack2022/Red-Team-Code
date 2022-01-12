@@ -1,0 +1,4 @@
+See file:///C:/Users/royalrobotics/Documents/code/RedTeam/build/tmp/linkFrcUserProgramLinuxathenaDebugExecutable/output.txt for all output for linkFrcUserProgramLinuxathenaDebugExecutable.
+linking frcUserProgram successful.
+
+Finished linkFrcUserProgramLinuxathenaDebugExecutable, see full log file:///C:/Users/royalrobotics/Documents/code/RedTeam/build/tmp/linkFrcUserProgramLinuxathenaDebugExecutable/output.txt.
